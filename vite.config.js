@@ -8,8 +8,8 @@ export default defineConfig({
     rollupOptions: {
       input: {
         'main': resolve(__dirname, 'index.html'),
-        'hyperlinks': resolve(__dirname, 'src/demo1/hyperlinks.html'),
-        'aboutMe:': resolve(__dirname, 'src/demo1/linkpage/aboutMe.html'),
+        'hyperlinks': resolve(__dirname, 'src/HTML & CSS 1/hyperlinks.html'),
+        'aboutMe:': resolve(__dirname, 'src/HTML & CSS 1/linkpage/aboutMe.html'),
       }
     }
   }
