@@ -10,7 +10,7 @@ export default defineConfig({
         'main': resolve(__dirname, 'index.html'),
         'hyperlinks': resolve(__dirname, 'src/HTML & CSS 1/hyperlinks.html'),
         'aboutMe:': resolve(__dirname, 'src/HTML & CSS 1/linkpage/aboutMe.html'),
-        'headphoto:': resolve(__dirname, 'src/HTML & CSS 1/linkpage/headphoto.png'),
+        // 'headphoto:': resolve(__dirname, 'src/HTML & CSS 1/linkpage/headphoto.png'),
       }
     }
   }
